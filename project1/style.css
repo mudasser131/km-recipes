@@ -1,0 +1,18 @@
+*{
+font-family: tilt nn;
+background-color: black;
+color: white;
+}
+.recipes{
+text-align: center;
+
+
+}
+.recipes>ul{
+list-style: none;
+text-decoration: none;
+}
+.recipes>ul>li{
+margin: 3rem;
+
+}
